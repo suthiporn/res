@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-874"?>
+<SaveCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Actors>
+    <Actor Name="Job">
+      <PosX>216.5</PosX>
+      <PosY>-20.5</PosY>
+      <PosZ>-10.55</PosZ>
+      <Health>10</Health>
+    </Actor>
+  </Actors>
+</SaveCollection>
